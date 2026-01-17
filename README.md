@@ -20,3 +20,488 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belimweb&" alt="belimweb" /></p>
 # -new-belimweb
+<html>
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="FAV/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="FAV/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="FAV/favicon-16x16.png">
+    <link rel="manifest" href="FAV/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Belim Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blakc" text="green"><i>
+
+<header align="center"><br><br>
+    <h1>My Website</h1><br>
+    <h3>Welcome</h3><br>
+    <p>Android & PC Friendly Website</p>
+    <nav align="center">
+    <a href="C:\Users\belim\OneDrive\Desktop\photos">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+    <p align="center">            
+  <h2><b>Belim Web Site</b></h2>
+ <input type="text" list="content">
+ <input type="submit" value="search">
+     <datalist id="content">
+        <option src ="https://www.youtube.com/embed/dqw4w9wgxcq">
+        <option value="facbook">
+        <option value="instagram">
+        <option value="watsapp">
+        <option value="amazon">
+        <option value="BELIM web">
+        <option value="google">
+        <option value="gmail">
+        <option value="twitter">    
+    </datalist>
+    </p>
+    </header>
+<section align="center">
+    <p>This website works on mobile and computer.</p>
+   <button><a href='C:\\Users\\belim\\OneDrive\\Desktop\\video.html'>Click Show Me player</a></button>
+</section><br>
+<footer align="center">
+<iframe src="https://www.youtube.com/embed/dqw4w9wgxcq" width="500" height="200">
+</iframe>
+</footer>
+
+    <p>© 2026 My Website</p>
+    </i>
+</body>
+</html>
